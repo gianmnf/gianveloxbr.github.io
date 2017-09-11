@@ -1,0 +1,29 @@
+@font-face {
+  font-family: 'Montserrat';
+  src: url(../fonts/Montserrat-Medium.ttf);
+}
+@font-face{
+  font-family: 'Josefin';
+  src: url(../fonts/JosefinSans-Regular.ttf);
+}
+body{
+	color: white;
+	background-image:url(../images/bgheader.png);
+}
+
+#gfools,#mpc > a,img{
+	text-align: center;
+	margin: auto;
+	display: block;
+	color: white;
+	font-family: 'Montserrat';
+}
+
+a:link,a:visited,a:hover,a:active{
+	color:white;
+}
+
+input{
+	display:block;
+	text-align: center;
+}

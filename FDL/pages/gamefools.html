@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Gamefools Full Installer Link Generator by Gianvelox</title>
+	<meta charset="utf-8">
+	<link type="text/css" rel="stylesheet" href="../css/materialize.min.css"  media="screen,projection"/>
+	<link rel="stylesheet" type="text/css" href="../css/index.css">
+	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+</head>
+<body>
+<script type="text/javascript" src="../js/jquery-3.2.1.min.js"></script>
+<script type="text/javascript" src="../js/materialize.min.js"></script>
+<script type="text/javascript" src="../js/main.js"></script>
+<ul id="dropdown1" class="dropdown-content">
+          <li><a href="gamefools.html">GameFools</a></li>
+          <li class="divider"></li>
+          <li><a href="myplaycity.html">MyPlayCity</a></li>
+</ul>
+<nav>
+    <div class="nav-wrapper">
+      <a href="#!" class="brand-logo center">GameFools Generator</a>
+      <ul class="right hide-on-med-and-down">
+        <li><a href="../index.html">Home</a></li>
+        <li><a class="dropdown-button" href="#!" data-activates="dropdown1">Generators<i class="material-icons right">arrow_drop_down</i></a></li>
+        <li><a href="badges.html">Instructions</a></li>
+        <li class="active"><a href="collapsible.html">About</a></li>
+      </ul>
+    </div>
+  </nav>
+<div id="generators">
+	<div id="gfools">
+	<br><br>
+	<img src="../images/gfoolslogo.png">
+	<br>
+	<a class="waves-effect waves-red btn" href="https://www.gamefools.com/pc-game-downloads.html" target=_blank>Click to go to GameFools.com Website</a>
+	<br><br>
+	<div id="gfoolsgenerator">
+	<br><br>
+	<input type="text" id="pickedurl" name="urlget" placeholder="Paste your url here and click at Convert! button."></input>
+	<input type="submit" class="waves-effect waves-red btn" value="Convert!" onclick="gfoolsgenerator()"></input>
+	<a class="btn" id="generatedurl" href="#" style="display:none;">Download Full Installer</a>
+	<br>
+	</div>
+	</div>
+	</div>
+</div>
+</body>
+</html>
