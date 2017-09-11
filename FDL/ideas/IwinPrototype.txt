@@ -1,2 +1,11 @@
 https://stamp.iwin.com/games/v2/2187978560270397186/2187978564954378240/13/0/solitaire-victorian-picnic-2Setup.exe
 http://download.iwincdn.com/gg/pf/iwin/2187978560270397186/acd_60m_pogoiwin/iwin/SolitaireVictorianPicnic2Setup.exe
+
+remove -> https://stamp.iwin.com/games/v2/
+add -> http://download.iwincdn.com/gg/pf/iwin/
+remove -> /2187978564954378240/13/0/
+remove all -
+ask for the user to caps all the game name
+gg profit!
+
+http://download.iwincdn.com/gg/pf/iwin/2187978560270397186/2187978564954378240/13/0/solitaire-victorian-picnic-2Setup.exe
