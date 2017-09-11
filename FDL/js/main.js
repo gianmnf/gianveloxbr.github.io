@@ -13,8 +13,7 @@ function gfoolsgenerator() {
 
 function mpcgenerator() {
     var pickedurl = document.getElementById('pickedurl').value;
-    var first = pickedurl.replace("files","files");
-    var final = first.replace("files","files_downloader_temp");
+        var final = pickedurl.replace("files.myplaycity.com/files","files.myplaycity.com/files_downloader_temp/");
     document.getElementById("generatedurl").setAttribute("href",final);
     var x = document.getElementById('generatedurl');
     if (x.style.display === 'none') {
