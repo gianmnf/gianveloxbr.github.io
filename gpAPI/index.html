@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <h5>API Token</h5>
+    <hr>
+    <input type="text" name="token" id="token" placeholder="Put your api token here">
+    <h5>Package Name</h5>
+    <hr>
+    <input type="text" name="pkgName" id="pkgName" placeholder="Put your package name here">
+    <br><br>
+    <input type="button" value="OK" onclick="getAppInfo()">
+
+    <div id="appInfo">
+        <h3>App Info</h3>
+        <h4 id="appName" name="appName">SS</h4>
+        <span>Country Avaliabilty:</span>
+        <div id="ca">
+
+        </div>
+        <div id="nca">
+
+        </div>
+    </div>
+    <script
+    src="https://code.jquery.com/jquery-3.4.1.min.js"
+    integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
+    crossorigin="anonymous"></script>
+  <script src="api.js"></script>
+</body>
+</html>
