@@ -4,17 +4,17 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta http-equiv="Pragma" content="no-cache" />
-<link rel="stylesheet" href="../../../resource/common/style.css?2019110601063818553184798" type="text/css"/>
-<link rel="stylesheet"  href='../../../Cuscss/english/frame.css?2019110601063818553184798' type='text/css'>
-<script language="JavaScript" src="../../../resource/common/util.js?2019110601063818553184798"></script>
+<link rel="stylesheet" href="http://192.168.100.1/resource/common/style.css?2019110601063818553184798" type="text/css"/>
+<link rel="stylesheet"  href='http://192.168.100.1/Cuscss/english/frame.css?2019110601063818553184798' type='text/css'>
+<script language="JavaScript" src="http://192.168.100.1/resource/common/util.js?2019110601063818553184798"></script>
 <title>DHCP Configure</title>
-<script language="JavaScript" src="../../../resource/common/InitForm.asp?2019110601063818553184798"></script>
-<script language="JavaScript" src='../../../Cusjs/InitFormCus.js?2019110601063818553184798'></script>
-<script language="JavaScript" src="../../../resource/common/jquery.min.js?2019110601063818553184798"></script>
-<script language="JavaScript" src="../../../resource/english/bbspdes.html?2019110601063818553184798"></script>
-<script language="javascript" src="../common/managemode.asp"></script>
-<script language="javascript" src="../common/dhcpinfo.asp"></script>
-<script language="JavaScript" src="dhcp2.cus?2019110601063818553184798"></script>
+<script language="JavaScript" src="http://192.168.100.1/resource/common/InitForm.asp?2019110601063818553184798"></script>
+<script language="JavaScript" src='http://192.168.100.1/Cusjs/InitFormCus.js?2019110601063818553184798'></script>
+<script language="JavaScript" src="http://192.168.100.1/resource/common/jquery.min.js?2019110601063818553184798"></script>
+<script language="JavaScript" src="http://192.168.100.1/resource/english/bbspdes.html?2019110601063818553184798"></script>
+<script language="javascript" src="http://192.168.100.1/html/bbsp/common/managemode.asp"></script>
+<script language="javascript" src="http://192.168.100.1/html/bbsp/common/dhcpinfo.asp"></script>
+<script language="JavaScript" src="http://192.168.100.1/html/bbsp/dhcpservercfg/dhcp2.cus?2019110601063818553184798"></script>
 <style>
 .TextBox
 {
