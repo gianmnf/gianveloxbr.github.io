@@ -1,0 +1,43 @@
+{
+   "providerName":"veloxSZ",
+   "lastUpdated":"2021-09-24T21:01:43+00:00",
+   "language":"pt-BR",
+   "liveFeeds":[
+      {
+         "id":"GCUGbgJZalE6XOuIzJVV",
+         "title":"NTV",
+         "content":{
+            "dateAdded":"2021-09-24T17:20:46+00:00",
+            "videos":[
+               {
+                  "url":"https://59f1cbe63db89.streamlock.net:1443/ntvnet/_definst_/ntvnet/chunklist_w1836273214.m3u8",
+                  "quality":"HD",
+                  "videoType":"HLS"
+               }
+            ],
+            "language":"pt-BR"
+         },
+         "thumbnail":"https://i.imgur.com/Fl7yzIf.png",
+         "shortDescription":"Assista aos principais programas da NTV de Patos de Minas no seu aparelho ROKU",
+         "longDescription":"Assista aos principais programas da NTV de Patos de Minas no seu aparelho ROKU",
+         "tags":[
+            "ntv",
+            "live"
+         ],
+         "rating":{
+            "rating":"UNRATED",
+            "ratingSource":"USA_PR"
+         },
+         "genres":[
+            "news"
+         ]
+      }
+   ],
+   "categories":[
+      {
+         "name":"Latest",
+         "order":"most_recent",
+         "query":"live OR ottfeed"
+      }
+   ]
+}
